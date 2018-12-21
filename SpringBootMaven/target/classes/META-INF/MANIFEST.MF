@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: SpringBootMaven
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: naeem
+Implementation-Vendor-Id: io.nimz
+Build-Jdk: 1.8.0_144
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/SpringBootMaven
+Created-By: Maven Integration for Eclipse
+
